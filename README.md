@@ -1,6 +1,5 @@
-# PGP-Key-Website
+# Tyguy047's PGP Key
 
-<code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGddwIgBEACRrBFq2dxymMv8HZATcykI/Wv9h5Q3nInRCF54+fQ2+a3eSn8s
@@ -53,4 +52,3 @@ zHTTGi76JtdnIgpb6ANQevws4epUTezcbTPJ5+JK+aqgJlydCeiFHMKoNeoaeMVw
 8MNlFhwEatEZakuznwmKFONe
 =iHQi
 -----END PGP PUBLIC KEY BLOCK-----
-</code>
